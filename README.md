@@ -1,1 +1,1 @@
-npm install axios chalk
+source : https://t.me/AirdropInsiderID/1822
